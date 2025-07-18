@@ -1,11 +1,5 @@
 ##
 premier msg de lead => creer un repo
 
-# On commence à travailler
-
-# Je suis dev2
-
-# je suis dev3
-
-
-# je suis dev4
+# On commence à travailler dev 1
+Un autre truc
